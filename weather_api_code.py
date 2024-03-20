@@ -1,5 +1,5 @@
 import requests
-api_key ='107e8635ede96492ddd44bd8dd9631a2'
+api_key ='32359b51690fa440e897429c9307693f'
 user_input= input("Enter the Location: ")
 
 
